@@ -1,0 +1,16 @@
+{
+  "name": "tiktok-demo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
+  },
+  "author": "Sourabh Bagrecha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tiktok-api": "^0.4.1"
+  }
+}
